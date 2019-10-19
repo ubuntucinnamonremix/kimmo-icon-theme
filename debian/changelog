@@ -1,10 +1,4 @@
-kimmo-icon-theme (1.0-1) focal; urgency=medium
-
-  * Updated version and changed runtime dependencies
-
- -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Sat, 19 Oct 2019 10:16:43 -0400
-
-kimmo-icon-theme (1.0-1) eoan; urgency=medium
+kimmo-icon-theme (0.1-1) eoan; urgency=medium
 
   [ Joshua Peisach ]
   * Initial release
